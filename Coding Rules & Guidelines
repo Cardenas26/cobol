@@ -8,7 +8,7 @@ Identification Area 73-80: used in olden days for identification purpose.
 
 COBOL LEVEL NUMBER
 01: Record description
-02-49: Fields with records
-1/77: independent items
-66 RENAMES clause
-88 Condition names
+02-49: Fields with records *begin in area A or B.
+1/77: independent items *must begin in Area A
+66 RENAMES clause *begin in area A or B.
+88 Condition names *begin in area A or B.
