@@ -3,3 +3,4 @@ Sequence No. 1-6 : Sequence number is added to each coding line when the program
 7: continuation,comments, or form feeds.
 Section A 8-11: Used for special entries such as DVISION,SECTION, Paragraph name and some items of the DATA Division.
 Section B 12-72: Used for most COBOL entries, including PROCEDURE DIVISION sentence.
+Identification Area 73-80: used in olden days for identification purpose.
