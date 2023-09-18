@@ -1,0 +1,5 @@
+a COBOL program always contains 4 divisions.
+Identification Division
+Environment Division
+Data Division
+Procedure Division
