@@ -5,6 +5,9 @@ Numeric:  Characters: 9    Meaning: Digits
 Character: S   Meaning: Sign.
 Character: V Meaning: Assumed Decimal point
 Character: Z Meaning: Zero subpress digit
+Character: ,   Meaning: Inserted Comma
+Character: .  Meaning: Inserted Decimal Point
+Character: - Meaning: Minus Sign if negative
 Alphanumeric:  Characters: X    Meaning: Any Character
 Edited Numberic:  Characters: 9    Meaning: digit
 Edited Alphanumeric:  Characters: A    Meaning: Alphabetic
