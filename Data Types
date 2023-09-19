@@ -2,8 +2,11 @@ Picture Clause abbreviated as PIC specifies the data type & amount of storage re
 
 Alphabetic:  Characters: A    Meaning: Alphabetic
 Numeric:  Characters: 9    Meaning: Digits
+Character: S   Meaning: Sign.
+Character: V Meaning: Assumed Decimal point
+Character: Z Meaning: Zero subpress digit
 Alphanumeric:  Characters: X    Meaning: Any Character
-Edited Numberic:  Characters: A    Meaning: Alphabetic
+Edited Numberic:  Characters: 9    Meaning: digit
 Edited Alphanumeric:  Characters: A    Meaning: Alphabetic
 
 
