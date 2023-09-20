@@ -1,5 +1,5 @@
-a COBOL program always contains 4 divisions.
-Identification Division: documentation purpose.
-Environment Division: used to specify file name and describe the specific computer equipments that will be used by the program
+a COBOL program always contains 4 divisions.  
+Identification Division: documentation purpose. 
+Environment Division: used to specify file name and describe the specific computer equipments that will be used by the program  
 Data Division: used to describe the input and output formats to be used by the program. also defines any constant and work areas necessary for the processing of datat
 Procedure Division: contains the business logic. contains instructions necessary to read input and process it and create output as per your requirement.
