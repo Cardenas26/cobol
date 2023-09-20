@@ -1,0 +1,4 @@
+String Clause: String statements concatenate 2 or more sending fields into one receiving field.
+Unstring Clause: unstrings a field into the fields that are listed in the into clause.
+Inspect Clause: lets you count characters in a field.
+Reference Modification: lets you refer to a specific location within a field.
